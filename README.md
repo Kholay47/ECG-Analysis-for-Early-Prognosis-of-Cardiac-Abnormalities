@@ -2,7 +2,7 @@
 
 ---
 
-## 🫀 ECG Classification using SVM
+## 🫀 ECG Classification using SVM (this model overfits)
 
 This is a machine learning-powered web application that classifies heartbeat (ECG) signals as **Normal** or **Abnormal** using the [PTB-XL ECG dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat). The project features:
 
